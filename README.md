@@ -7,7 +7,7 @@
   <br>
   <img src="https://img.shields.io/badge/RxSwift-black?style=for-the-badge&logo=ReactiveX&logoColor=F01F7A"/>
   <img src="https://img.shields.io/badge/Combine-black?style=for-the-badge&logo=Swift&logoColor=white"/> 
-  <img src="https://img.shields.io/badge/Point Tree - TCA-black?style=for-the-badge"/> 
+  <img src="https://img.shields.io/badge/Point Free - TCA-black?style=for-the-badge"/> 
 
   <br>
   <img src="https://img.shields.io/badge/Notion-black?style=for-the-badge&logo=Notion&logoColor=white"/> 
