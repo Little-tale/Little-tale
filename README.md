@@ -1,5 +1,12 @@
-<div align=center> 
+# 김재형 / LittleTale
+- iOS Develper
+  
+## Experience
+- Central Makeus Challenge iOS Read `(2025.03 ~ now)`
+- Misgo Real Estate iOS Team `(2024.12 ~ 2025.05)`
 
+
+<div align=leading> 
   <img src="https://img.shields.io/badge/XCode-black?style=for-the-badge&logo=Xcode&logoColor=147EFB"/>
   <img src="https://img.shields.io/badge/UIKit-black?style=for-the-badge&logo=UIKit&logoColor=2396F3"/>
   <img src="https://img.shields.io/badge/swift-black?style=for-the-badge&logo=swift&logoColor=white">
