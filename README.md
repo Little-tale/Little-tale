@@ -1,8 +1,10 @@
 # 김재형 / LittleTale
 - iOS Develper
+- Flutter Developer
   
 ## Experience
-- Central Makeus Challenge iOS Read `(2025.03 ~ now)`
+- TOPPING Flutter Team `2026.02. ~ `
+- Central Makeus Challenge iOS Read `(2025.03 ~ 2026.03.14)`
 - Misgo Real Estate iOS Team `(2024.12 ~ 2025.05)`
 
 
