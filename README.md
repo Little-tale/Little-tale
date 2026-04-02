@@ -2,11 +2,22 @@
 - iOS Develper
 - Flutter Developer
   
-## Experience
+## Tech Stack
+- Swift  
+- Dart 
+- HTML, CSS, JavaScript, TypeScript
+
+## Creative Side
+- Adobe After Effects, Premiere Pro
+
+## Careers
 - TOPPING Flutter Team `2026.02. ~ `
 - Central Makeus Challenge iOS Read `(2025.03 ~ 2026.03.14)`
 - Misgo Real Estate iOS Team `(2024.12 ~ 2025.05)`
 
+## Contact
+- mail: [you3192001@gmail.com](mailto:you3192001@gmail.com)
+- Velog: [LittelTale_Velog](https://velog.io/@little_tail)
 
 <div align="center">
 
